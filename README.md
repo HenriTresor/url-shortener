@@ -1,7 +1,7 @@
 ## fullstack url-shortener web-app
 
 ## made with 
- ### - nodejs(expressjs) -> backend
+ ### - nodejs and mongodb -> backend
  ### - html/css -> frontend
 
 ### to try it out ...
